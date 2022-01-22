@@ -1,7 +1,7 @@
 package kr.tpc;
 
 // 책(Object) -> 제목, 가격, 출판사, 페이지수...
-public class BookVO {
+public class BookVO { // VO: Value Object
 	public String title;
 	public int price;
 	public String company;
