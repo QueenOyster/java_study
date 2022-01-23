@@ -1,0 +1,8 @@
+package kr.tpc;
+
+public class Cat extends Animal {
+	public void night() {
+		System.out.println("¹ã¿¡ ´«¿¡¼­ ºûÀÌ ³­´Ù.");
+	}
+
+}
