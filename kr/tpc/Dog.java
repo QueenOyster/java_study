@@ -5,4 +5,8 @@ public class Dog extends Animal {
 	public void eat() { // 재정의(override)
 		System.out.println("개 처럼 먹다.");
 	}
+	public Dog() {
+		super(); // new Animal();
+	}
+	
 }
