@@ -15,5 +15,4 @@ public class BookDTO { // DTO: Data Transfer Object // Object != Array
 		this.company = company;
 		this.page = page;
 	}
-	
 }
